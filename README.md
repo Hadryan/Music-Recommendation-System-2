@@ -40,5 +40,5 @@ A music recommendation system is built based on previous music play amount of us
 - You can find the result as below:
 
 <div align="center">
-<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Recommendation%203.png" height=80 alt="Workflow" >
+<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Recommendation%203.png" height=300 alt="Workflow" >
 </div>
