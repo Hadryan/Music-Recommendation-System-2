@@ -11,8 +11,8 @@ A music recommendation system is built based on previous music play amount of us
 <img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Flow.png" alt="Workflow" >
 </div>
 
-
-## Recommendation System Ⅰ: based on the top list of music
+## Results:
+### Recommendation System Ⅰ: based on the top list of music
 - It's useful for new users, which can solve the "Cold Starting Problem".
 - I created a function `create_popularity_recommendation(train_data_set, user_id, item_id)`
   - train_data_set: the data set you want to analyze to do a recommendation system
@@ -26,7 +26,7 @@ A music recommendation system is built based on previous music play amount of us
 </div>
 
 
-## Recommendation System Ⅱ: based on the similarity of music
+### Recommendation System Ⅱ: based on the similarity of music
 
 - You can find the result as below:
 
@@ -35,7 +35,7 @@ A music recommendation system is built based on previous music play amount of us
 </div>
 
 
-## Recommendation System Ⅲ: based on Singular Value Decomposition
+### Recommendation System Ⅲ: based on Singular Value Decomposition
 
 - You can find the result as below:
 
