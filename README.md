@@ -1,5 +1,11 @@
 # Music-Recommendation-System
-A music recommendation system is built based on previous music play amount of users. There are three kinds of methods using in this project:
+
+<div align="center">
+<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Recommendation%20System%20Framework.png" alt="framework" >
+</div>
+
+
+You can find the entirely whole framework for recommendation system, including backend, frontend, and users. But here, we just built a music recommendation system, which based on previous music play amount of users. There are three kinds of methods using in this project:
 
 - Recommendation System Ⅰ: based on the top list of music
 - Recommendation System Ⅱ: based on the similarity of music
