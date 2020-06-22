@@ -5,7 +5,7 @@
 </div>
 
 
-You can find the entirely whole framework for recommendation system, including backend, frontend, and users. But here, we just built a music recommendation system, which based on previous music play amount of users. There are three kinds of methods using in this project:
+You can find the entirely whole framework for recommendation work above, including backend (prediction model for recommendation), frontend, and users. But here, we just built a music recommendation system, which based on previous music play amount of users. There are three kinds of methods using in this project:
 
 - Recommendation System Ⅰ: based on the top list of music
 - Recommendation System Ⅱ: based on the similarity of music
