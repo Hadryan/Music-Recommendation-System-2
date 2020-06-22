@@ -11,7 +11,7 @@ A music recommendation system is built based on previous music play amount of us
 <img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Flow.png" alt="Workflow" >
 </div>
 
-## Results:
+## Results
 ### Recommendation System Ⅰ: based on the top list of music
 - It's useful for new users, which can solve the "Cold Starting Problem".
 - I created a function `create_popularity_recommendation(train_data_set, user_id, item_id)`
@@ -42,3 +42,11 @@ A music recommendation system is built based on previous music play amount of us
 <div align="center">
 <img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Recommendation%203.png" height=450 alt="R3">
 </div>
+
+
+## How to Run
+
+**Environment:**
+- Anaconda 4.8.3, built in Jupyter Notebook, Numpy, Pandas, Matplotlib
+- Python 3.7.4 with some necessary libraries, like sklearn
+- sqtite3: it is used to import a database format file
