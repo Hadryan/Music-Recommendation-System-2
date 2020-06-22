@@ -46,7 +46,7 @@ You can find the entirely whole framework for recommendation work above, includi
 - You can find the result as below:
 
 <div align="center">
-<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Recommendation%203.png" height=420 alt="R3">
+<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/recommendation_3.png" height=420 alt="R3">
 </div>
 
 
