@@ -35,7 +35,7 @@ You can find the entirely whole framework for recommendation work above, includi
 ### Recommendation System Ⅱ: based on the similarity of music
 - Build a cooccurence_matrix to save the similarity of each song users are listening and each song in our dateset. Jaccard Similarity looks like this: 
 <div align="center">
-<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Jaccard.png" height=80 alt="R2">
+<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/Jaccard.png" height=60 alt="R2">
 </div>
 
 - You can find the result as below:
