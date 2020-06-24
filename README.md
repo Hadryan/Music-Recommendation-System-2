@@ -46,6 +46,11 @@ You can find the entirely whole framework for recommendation work above, includi
 
 
 ### Recommendation System Ⅲ: based on Singular Value Decomposition
+- Singular Value Decompostion is commonly used for recommendation system, because it can figure out the songs' similarity quickly and efficiently. You can find the core idea below:
+
+<div align="center">
+<img src="https://github.com/JimengShi/Music-Recommendation-System/blob/master/images/SVD.jpg" height=300 alt="R3">
+</div>
 
 - You can find the result as below:
 
